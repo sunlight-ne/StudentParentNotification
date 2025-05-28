@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Jayson\Desktop\|C:\Users\HP\Desktop\AppPortal\Installer\|https://drive.google.com/uc%3fexport=download&amp;id=1uMc3GMGoARsz46xZQg1p4UDykXkrFB6l/</PublishUrlHistory>
+    <InstallUrlHistory>https://drive.google.com/uc%3fexport=download&amp;id=1DnP6KaWOtYhngsUJX3zzm_5_Ipcys4yU/|https://drive.google.com/uc%3fexport=download&amp;id=1uMc3GMGoARsz46xZQg1p4UDykXkrFB6l/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win64_x64\dotnet\</ReferencePath>
+  </PropertyGroup>
+</Project>
